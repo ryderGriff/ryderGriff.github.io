@@ -17,3 +17,5 @@ I like when plans go smoothly and I dislike heartburn.
 **LinkedIn** : https://www.linkedin.com/in/b-ryder-griffith
 
 **Twitter** : @GriffithRyder
+
+![Ryder Pic](/C13BD06E-6D3D-49B7-9961-6D4F8743380B_1_201_a.jpeg)
