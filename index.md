@@ -18,4 +18,4 @@ I like when plans go smoothly and I dislike heartburn.
 
 **Twitter** : @GriffithRyder
 
-![Ryder Pic](./images/IMG_2290.JPG)
+![Ryder Pic](images/IMG_2290.JPG)
