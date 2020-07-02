@@ -12,10 +12,10 @@ I am taking this class because data interests me and this class seems to combine
 I like when plans go smoothly and I dislike heartburn.
 
 ## Personal Links...
-**Instagram** : @ryde_or_die_ 
+**Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
 
-**LinkedIn** : https://www.linkedin.com/in/b-ryder-griffith
+**LinkedIn** : [Ryder Griffith](https://www.linkedin.com/in/b-ryder-griffith)
 
-**Twitter** : @GriffithRyder
+**Twitter** : [@GriffithRyder](https://twitter.com/GriffithRyder)  
 
 ![ Picture of Ryder ](images/Me.jpg)
