@@ -11,6 +11,9 @@ I am taking this class because data interests me and this class seems to combine
 
 I like when plans go smoothly and I dislike heartburn.
 
+## Things to check out here
+[Charts Page](dataPage.md)
+
 ## Personal Links...
 **Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
 
