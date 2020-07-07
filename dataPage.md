@@ -1,4 +1,4 @@
-![Home Page]()
+[Home Page](index.md)
 
 # Here is where I keep my charts XD
 
