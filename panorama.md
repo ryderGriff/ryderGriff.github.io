@@ -4,7 +4,8 @@ I took panoramas of the two rooms in my house where I do most of my work for cla
 
 ## Kitchen
 
-
+![Kitchen Panorama](images/kitchen360.JPG)
 
 ## Bedroom
 
+![Bedroom Panorama](images/bedroom360.JPG)
