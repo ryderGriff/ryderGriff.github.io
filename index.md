@@ -13,6 +13,7 @@ I like when plans go smoothly and I dislike heartburn.
 
 ## Things to check out here
 [Charts Page](dataPage.md)
+[Panorama Page](panorama.md)
 
 ## Personal Links...
 **Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
