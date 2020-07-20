@@ -13,7 +13,9 @@ I like when plans go smoothly and I dislike heartburn.
 
 ## Things to check out here
 [Charts Page](dataPage.md)
+
 [Panorama Page](panorama.md)
+
 [House Tour (Though Google Virtual Tour)](https://poly.google.com/view/dhsJ0AhpaDY)
 
 ## Personal Links...
