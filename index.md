@@ -18,7 +18,7 @@ I like when plans go smoothly and I dislike heartburn.
 
 [House Tour (Though Google Virtual Tour)](https://poly.google.com/view/dhsJ0AhpaDY)
 
-[#BLMmap Lab Design](BLMmap.md)
+[#BLM Twitter Map](BLMmap.md)
 
 ## Personal Links...
 **Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
