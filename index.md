@@ -20,6 +20,8 @@ I like when plans go smoothly and I dislike heartburn.
 
 [#BLM Twitter Map](BLMmap.md)
 
+[Tableau Work](tableau.md)
+
 ## Personal Links...
 **Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
 
