@@ -16,7 +16,7 @@ I like when plans go smoothly and I dislike heartburn.
 
 [Panorama Page](panorama.md)
 
-[House Tour (Through Google Virtual Tour)](https://poly.google.com/view/dhsJ0AhpaDY)
+[House Tour (Through Google Virtual Tour)](HouseTour.md)
 
 [#BLM Twitter Map](BLMmap.md)
 
