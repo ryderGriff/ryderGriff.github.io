@@ -1,5 +1,11 @@
 [Home Page](index.md)
 
-Here is the map I made for our first data scraping lab. The map shows users that have used #BLM between 7/18-7/23 based on account location.
+Here is the map I made for our first data scraping lab. The map shows users that have used #BLM between 7/18-7/23 based on account location. 
+
+With the protests happening in Portland, Oregon and how much discussion there is about them on Twitter, the data scraped shows roughly 128 tweets using #BLM have been written in the city's vicinity which is to be expected. The other hot spot of #BLM use at this time is New York City with roughly 152 tweets, which also has continual protests happening within the city as well. 
+
+However, we see that the use of #BLM drops greatly in the central US area. I find this interesting because the two major cities discussed above and a handful of other cities seem to have the most consistent users of #BLM while more rural areas/states seem to not have many users talking about the issues happening around the country. 
+
+Overall, the heat map shows where protests and open cries for change are still happening in the country and how certain states seem to be silent or quietly talking about the national issue. This could be important insight for someone who is working on strategic planning to help start dialogue about Black Live Matter in certain areas of the country (where the dialogue is least prevalent). Also, this data could work well alongside other information about each area's thoughts on other civil rights issues to see if the quieter places also align with places that choose to avoid other civil rights discussions all together.
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="BLM Hashtag Use 7/18 - 7/23" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=def3b1e1043d4ea2a393ac796f6bfcb8&extent=-174.2815,4.4244,-53.1683,63.7588&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
