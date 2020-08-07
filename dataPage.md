@@ -3,6 +3,7 @@
 # Here is where I keep my chartz XD
 
 ## Example Chartz
+
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-fF84N" src="https://datawrapper.dwcdn.net/fF84N/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="596"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
@@ -14,7 +15,7 @@
 
 ## Personally Scraped Data Chart
 
-For more information about the Digital Lives of Vaping research project, click [here](https://wordpress.lehigh.edu/summerexpo/team/digital-lives-of-vaping/).
-
 <iframe title="Likes, Shares, and Comments on @vaping.johann Tik Toks " aria-label="Interactive line chart" id="datawrapper-chart-TlyTT" src="https://datawrapper.dwcdn.net/TlyTT/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+For more information about the Digital Lives of Vaping research project, click [here](https://wordpress.lehigh.edu/summerexpo/team/digital-lives-of-vaping/).
