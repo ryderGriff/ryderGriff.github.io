@@ -11,23 +11,24 @@ I am taking this class because data interests me and this class seems to combine
 
 I like when plans go smoothly and I dislike heartburn.
 
-## Things to check out here
+## Visuals
 [Charts Page](dataPage.md)
 
 [Panorama Page](panorama.md)
 
 [House Tour (Through Google Virtual Tour)](HouseTour.md)
 
-[#BLM Twitter Map](BLMmap.md)
+[#BLM Twitter Map Visual](BLMmap.md)
 
-[Tableau Work (Charts)](tableau.md)
+[#BLM Twitter Tables](tableau.md)
 
-[Tableau Work (Map)](tableau2.md)
+[Taxable Alcohol vs. Intoxicated Vehicular Deaths Map](tableau2.md)
 
 ## Personal Links...
-**Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
 
 **LinkedIn** : [Ryder Griffith](https://www.linkedin.com/in/b-ryder-griffith)
+
+**Instagram** : [@ryde_or_die_](https://www.instagram.com/ryde_or_die_/) 
 
 **Twitter** : [@GriffithRyder](https://twitter.com/GriffithRyder)  
 
