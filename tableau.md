@@ -4,7 +4,7 @@
 
 ## Personal Work
 
-Here are two graphs made from tweets that used #BLM in between 7/18 - 7/23. The data was collected through https://bbspring.shinyapps.io/App24/ , a tool that was suggested to me by my professor.
+Here are two graphs made from tweets that used #BLM in between 7/18 - 7/23. The data was collected through [an interactive Twitter USA data map] (https://bbspring.shinyapps.io/App24/), a tool that was suggested to me by my professor.
 
 The two tables show which users in the span of 5 days that I collected data from used #BLM and compares that to their following. I filtered the table to 3 or more tweets to keep it to a reasonable amount of columns. I find this data interesting because it highlights who specifically is talking about that and how large each user's initial network is in terms of their following. 4 users stand out in terms of following and their account sizes are between roughly 63,000 and 202,000.
 
