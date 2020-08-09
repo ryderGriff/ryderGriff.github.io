@@ -1,4 +1,4 @@
-# Welcome to Ryder Griffith's Github Page for Comm 165!
+# Welcome to Ryder Griffith's Portfolio for Comm 165!
 
 
 Hey folks! My name is Ryder Griffith and I am a rising senior at Lehigh University. 
